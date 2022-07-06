@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LivenessDetector</string>
+    <string name="detector_1">Detector 1</string>
+    <string name="detector_2">Detector 2</string>
+</resources>
